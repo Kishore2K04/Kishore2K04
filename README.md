@@ -30,9 +30,9 @@ Docker · Git · GitHub · AWS
 
 ## 🔗 Let's Connect
 
-**LinkedIn:** [Kishore Selvakumar](https://www.linkedin.com/)
+**LinkedIn:** [Kishore Selvakumar](https://www.linkedin.com/in/kishore-selvakumar-cse/)
 
-**Email:** kishore56411465@gmail.com
+**Email:** [kishore56411465@gmail.com](mailto:kishore56411465@gmail.com)
 
 **GitHub:** [@Kishore2K04](https://github.com/Kishore2K04)
 
