@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kishore S
 
-### Computer Science Student → AI & Software Engineer
+### Computer Science Student
 
 Hi, I'm Kishore S, a Computer Science student who enjoys learning by building and turning ideas into working solutions.
 
@@ -31,7 +31,9 @@ Docker · Git · GitHub · AWS
 ## 🔗 Let's Connect
 
 **LinkedIn:** [Kishore Selvakumar](https://www.linkedin.com/)
-**Email:** Available on my LinkedIn
+
+**Email:** kishore56411465@gmail.com
+
 **GitHub:** [@Kishore2K04](https://github.com/Kishore2K04)
 
 
