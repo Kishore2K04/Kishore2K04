@@ -36,4 +36,11 @@ Docker · Git · GitHub · AWS
 
 **GitHub:** [@Kishore2K04](https://github.com/Kishore2K04)
 
+---
+
+## 🚀 Key Projects
+
+A few of my key projects are pinned below — showcasing how I learn, experiment, and turn ideas into working solutions.
+
+↓ Explore my pinned repositories
 
