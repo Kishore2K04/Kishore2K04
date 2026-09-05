@@ -2,20 +2,13 @@
 
 ### Computer Science Student → AI & Software Engineer
 
-I build **AI-powered applications and backend systems** that solve real-world problems.
+Hi, I'm Kishore S, a Computer Science student who enjoys learning by building and turning ideas into working solutions.
 
-Currently focused on **AI Engineering, Backend Development, and DSA**, with hands-on work across **LLMs, Computer Vision, APIs, databases, and scalable software systems.**
+I'm curious about how technology works beneath the surface and enjoy exploring areas across software development, artificial intelligence, backend systems, and problem solving.
 
----
+I like taking on challenging problems, experimenting with new technologies, and continuously improving my understanding by building things from scratch.
 
-## ⚡ At a Glance
-
-🎓 **Computer Science Student**
-🤖 **AI / ML • LLMs • Computer Vision • RAG**
-⚙️ **Backend • REST APIs • FastAPI • PostgreSQL**
-💻 **Python • Java • C++ • JavaScript / TypeScript**
-🧠 **Data Structures & Algorithms**
-🐳 **Docker • Git • Cloud**
+Currently, I'm focused on strengthening my programming fundamentals, Data Structures & Algorithms, software engineering practices, and AI technologies, while exploring different areas of computer science to discover where I can create the most impact.
 
 ---
 
@@ -35,21 +28,10 @@ Docker · Git · GitHub · AWS
 
 ---
 
-## 🎯 Currently
-
-* 📚 Strengthening **DSA & Computer Science fundamentals**
-* 🤖 Building deeper expertise in **AI Engineering & LLM applications**
-* ⚙️ Learning **backend architecture & distributed systems**
-* 🚀 Building projects that move from **prototype → production**
-
----
-
 ## 🔗 Let's Connect
 
 **LinkedIn:** [Kishore Selvakumar](https://www.linkedin.com/)
 **Email:** Available on my LinkedIn
 **GitHub:** [@Kishore2K04](https://github.com/Kishore2K04)
 
----
 
-### 💡 Build → Learn → Ship → Repeat.
